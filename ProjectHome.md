@@ -1,0 +1,1 @@
+Programa escrito en PHP a traves del framework de symfony para llevar una simple contabilidad de gastos mensuales.
